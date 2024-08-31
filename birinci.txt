@@ -1,1 +1,3 @@
 mastsr 2. commit için bu satırı yazdım
+
+masterda bir commit daha aatıım
